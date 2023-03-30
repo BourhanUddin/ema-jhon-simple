@@ -1,0 +1,5 @@
+.cart-container {
+  position: sticky;
+  top: 10px;
+  background: rgba(255, 153, 0, 0.3);
+}
